@@ -1,0 +1,49 @@
+Nombre Departamento,Código Departamento,Programa,Estado de Postulación,Año,Hogares,Valor Asignado,Senso Hogares,Senso Viviendas,Deficit Hogares,Categoria Estado,Cobertura
+BOYACÁ,15,Programa Vivienda Gratuita Fase I,Asignados,2020,2,88452214.0,422510,409653,12857,Ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Apto con subsidio vencido,2016,23,300602380.0,387701,373653,14048,Pendiente,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Apto con subsidio vencido,2010,2,19572500.0,347187,331125,16062,Pendiente,Departamental
+BOYACÁ,15,Bolsa Desplazados,Renuncia al Subsidio - Pendiente de Restitución,2008,1,14907000.0,335760,319252,16508,No ejecutado,Nacional
+BOYACÁ,15,Bolsa unica Nacional,Renuncia con restitucion de subsidio,2010,11,120043350.0,347187,331125,16062,No ejecutado,Departamental
+BOYACÁ,15,Bolsa Ordinaria,Renuncia con restitucion de subsidio,2008,1,9107700.0,335760,319252,16508,No ejecutado,Departamental
+BOYACÁ,15,Bolsa unica Nacional,Renuncias al subsidio,2009,4,30228250.0,341362,325051,16311,No ejecutado,Departamental
+BOYACÁ,15,Bolsa Ordinaria,Apto con subsidio vencido,2005,7,53669000.0,320143,303356,16787,Pendiente,Departamental
+BOYACÁ,15,Bolsa Saludable,Restitucion de subsidios no aplicados,2010,9,35695082.0,347187,331125,16062,Pendiente,Departamental
+BOYACÁ,15,Bolsa unica Nacional,Subsidio Revocado,2009,1,4472100.0,341362,325051,16311,Pendiente,Departamental
+BOYACÁ,15,MI CASA YA,Apto con subsidio vencido,2022,20,515426300.0,437989,425738,12251,Pendiente,Departamental
+BOYACÁ,15,Concurso de Esfuerzo Territorial Nacional,Asignados,2010,59,632162500.0,347187,331125,16062,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Renuncia con restitucion de subsidio,2006,1,8500000.0,325228,308494,16734,No ejecutado,Departamental
+BOYACÁ,15,Bolsa unica Nacional,Asignados,2009,556,5121418239.0,341362,325051,16311,Ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Renuncias al subsidio,2023,5,116000000.0,445936,433929,12007,No ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Perdida de ejecutoriedad de asignación de SFV,2020,1,17556060.0,422510,409653,12857,Pendiente,Departamental
+BOYACÁ,15,Bolsa Desplazados,Asignados,2007,54,592822500.0,330406,313755,16651,Ejecutado,Nacional
+BOYACÁ,15,VIPA,Renuncias al subsidio,2017,1,17236375.0,396207,382353,13854,No ejecutado,Departamental
+BOYACÁ,15,Casa Digna Vida Digna,Renuncias al subsidio,2021,4,39735857.0,430257,417720,12537,No ejecutado,Departamental
+BOYACÁ,15,Ahorro Programado Contractual,Apto con subsidio vencido,2013,1,12969000.0,365954,350868,15086,Pendiente,Departamental
+BOYACÁ,15,VIPA,Asignados,2017,15,296465650.0,396207,382353,13854,Ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Perdida de ejecutoriedad de asignación de SFV,2015,1,12887000.0,379926,365553,14373,Pendiente,Departamental
+BOYACÁ,15,Programa Vivienda Gratuita Fase I,Asignados,2013,50,1940843000.0,365954,350868,15086,Ejecutado,Departamental
+BOYACÁ,15,Bolsa unica Nacional,Subsidio Restituido,2005,1,7700000.0,320143,303356,16787,Pendiente,Departamental
+BOYACÁ,15,Bolsa Saludable,Apto con subsidio vencido,2008,68,244453593.0,335760,319252,16508,Pendiente,Departamental
+BOYACÁ,15,MI CASA YA,Renuncias al subsidio,2022,7,175426300.0,437989,425738,12251,No ejecutado,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Restitución SFV Cobro Directo Fiduciaria,2005,6,45108000.0,320143,303356,16787,Pendiente,Departamental
+BOYACÁ,15,Bolsa Desplazados,Asignados,2017,1,51640190.0,396207,382353,13854,Ejecutado,Nacional
+BOYACÁ,15,Bolsa unica Nacional,Asignados,2005,126,970200000.0,320143,303356,16787,Ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Renuncias al subsidio,2017,2,29508680.0,396207,382353,13854,No ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Perdida de ejecutoriedad de asignación de SFV,2017,1,14754340.0,396207,382353,13854,Pendiente,Departamental
+BOYACÁ,15,Semillero de Propietarios Ahorro,Asignados,2022,248,1488000000.0,437989,425738,12251,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Desplazados,Renuncias al subsidio,2005,2,8950000.0,320143,303356,16787,No ejecutado,Nacional
+BOYACÁ,15,Bolsa Atentados terroristas,Asignados,2003,7,52398852.0,310547,293938,16609,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Recicladores,Asignados,2009,6,65590800.0,341362,325051,16311,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Renuncia con restitucion de subsidio,2011,1,11072500.0,353234,337465,15769,No ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Asignados,2018,450,8570224740.0,405730,392192,13538,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Ordinaria,Asignados,2005,59,448964529.0,320143,303356,16787,Ejecutado,Departamental
+BOYACÁ,15,Programa Vivienda Gratuita Fase I,Asignados,2014,729,29451482396.0,372728,358003,14725,Ejecutado,Departamental
+BOYACÁ,15,MI CASA YA,Asignados,2023,1246,36048000000.0,445936,433929,12007,Ejecutado,Departamental
+BOYACÁ,15,Programa Vivienda Gratuita Fase II,Perdida de ejecutoriedad de asignación de SFV,2022,1,58812801.0,437989,425738,12251,Pendiente,Departamental
+BOYACÁ,15,Ahorro Programado Contractual,Asignados,2009,1,7105670.0,341362,325051,16311,Ejecutado,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Asignados,2009,40,402707950.0,341362,325051,16311,Ejecutado,Departamental
+BOYACÁ,15,Programa Vivienda Gratuita Fase II,Subsidio revocado mediante procedimiento Administrativo Sancionatorio,2020,2,110967544.0,422510,409653,12857,Pendiente,Departamental
+BOYACÁ,15,Bolsa Esfuerzo Territorial,Asignados,2003,248,1639023875.0,310547,293938,16609,Ejecutado,Departamental
+BOYACÁ,15,Programa Vivienda Gratuita Fase I,Subsidio revocado mediante procedimiento Administrativo Sancionatorio,2013,1,37728000.0,365954,350868,15086,Pendiente,Departamental
+BOYACÁ,15,Bolsa Atentados terroristas,Asignados,2007,1,8052432.0,330406,313755,16651,Ejecutado,Departamental
+BOYACÁ,15,Concurso de Esfuerzo Territorial Nacional,Restitución SFV por Indemnización,2010,144,1557875000.0,347187,331125,16062,Pendiente,Departamental

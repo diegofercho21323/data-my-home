@@ -1,0 +1,54 @@
+Nombre Departamento,Código Departamento,Programa,Estado de Postulación,Año,Hogares,Valor Asignado,Senso Hogares,Senso Viviendas,Deficit Hogares,Categoria Estado,Cobertura
+CESAR,20,MI CASA YA,Renuncias al subsidio,2016,6,77218960.0,310857,292455,18402,No ejecutado,Departamental
+CESAR,20,Bolsa Desastres Naturales,Restitución SFV por Indemnización,2008,4,36430800.0,235743,225421,10322,Pendiente,Departamental
+CESAR,20,Programa Vivienda Gratuita Fase I,Perdida de ejecutoriedad de asignación de SFV,2014,1,37224880.0,287538,271827,15711,Pendiente,Departamental
+CESAR,20,Ahorro Programado Contractual,Apto con subsidio vencido,2010,1,11072500.0,251012,239284,11728,Pendiente,Departamental
+CESAR,20,Bolsa Desplazados,Subsidio Revocado,2006,5,69828000.0,222187,212942,9245,Pendiente,Nacional
+CESAR,20,Bolsa Saludable,Apto con subsidio vencido,2009,11,40632310.0,243163,232182,10981,Pendiente,Departamental
+CESAR,20,Programa Vivienda Gratuita Fase I,Perdida de ejecutoriedad de asignación de SFV,2015,1,38938070.5,298416,281436,16980,Pendiente,Departamental
+CESAR,20,Bolsa Saludable,Restitucion de subsidios no aplicados,2008,10,36918985.0,235743,225421,10322,Pendiente,Departamental
+CESAR,20,Bolsa Desplazados,Asignados,2023,2,52200000.0,420487,393698,26789,Ejecutado,Nacional
+CESAR,20,Fenómeno de la Niña,Asignados,2014,110,2805146960.0,287538,271827,15711,Ejecutado,Departamental
+CESAR,20,VIPA,Asignados,2016,811,16502105225.0,310857,292455,18402,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignados,2018,1,54686940.0,343460,321581,21879,Ejecutado,Nacional
+CESAR,20,Casa Digna Vida Digna,Asignados,2022,103,1122197626.0,407987,381996,25991,Ejecutado,Departamental
+CESAR,20,Bolsa Ordinaria,Apto con subsidio vencido,2008,3,27323100.0,235743,225421,10322,Pendiente,Departamental
+CESAR,20,MI CASA YA,Asignados,2020,770,16071579190.0,381066,356790,24276,Ejecutado,Departamental
+CESAR,20,MI CASA YA,Renuncias al subsidio,2020,7,131670450.0,381066,356790,24276,No ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignado con aplicación en Vivienda Gratuita,2006,8,105135000.0,222187,212942,9245,Ejecutado,Nacional
+CESAR,20,Bolsa Desplazados,Asignado con aplicación en Vivienda Gratuita,2010,136,2043262500.0,251012,239284,11728,Ejecutado,Nacional
+CESAR,20,Bolsa Desplazados,Perdida de ejecutoriedad de asignación de SFV,2011,10,160680000.0,259275,246707,12568,Pendiente,Nacional
+CESAR,20,Semillero de Propietarios Arriendo,Asignados,2022,47,678258660.0,407987,381996,25991,Ejecutado,Departamental
+CESAR,20,Bolsa Esfuerzo Territorial,Renuncias al subsidio,2005,1,7518000.0,215960,207151,8809,No ejecutado,Departamental
+CESAR,20,Bolsa Desastres Naturales,Asignados,2018,2,12376000.0,343460,321581,21879,Ejecutado,Departamental
+CESAR,20,MI CASA YA,Asignados,2018,486,9335841900.0,343460,321581,21879,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Subsidio Revocado,2008,9,95587500.0,235743,225421,10322,Pendiente,Nacional
+CESAR,20,VIPA,Asignados,2014,46,879537750.0,287538,271827,15711,Ejecutado,Departamental
+CESAR,20,Bolsa Ordinaria,Restitución SFV por Indemnización,2004,116,871116000.0,209909,201484,8425,Pendiente,Departamental
+CESAR,20,Casa Digna Vida Digna,Asignados,2021,253,2471385824.0,395417,370226,25191,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Renuncia con restitucion de subsidio,2006,2,25107000.0,222187,212942,9245,No ejecutado,Nacional
+CESAR,20,Programa Vivienda Gratuita Fase I,Asignados,2016,101,4163880000.0,310857,292455,18402,Ejecutado,Departamental
+CESAR,20,Bolsa Concejales,Asignados,2010,8,85232500.0,251012,239284,11728,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignado posteriormente beneficiario de Vivienda Gratuita,2005,3,13425000.0,215960,207151,8809,Ejecutado,Nacional
+CESAR,20,Programa Vivienda Gratuita Fase II,Perdida de ejecutoriedad de asignación de SFV,2022,2,114296573.0,407987,381996,25991,Pendiente,Departamental
+CESAR,20,Bolsa Desplazados,Restitución SFV por Indemnización,2005,2,29814000.0,215960,207151,8809,Pendiente,Nacional
+CESAR,20,Bolsa Esfuerzo Territorial,Asignados,2005,72,575736000.0,215960,207151,8809,Ejecutado,Departamental
+CESAR,20,MI CASA YA,Apto con subsidio vencido,2015,2,25774000.0,298416,281436,16980,Pendiente,Departamental
+CESAR,20,Programa Vivienda Gratuita Fase I,Asignados,2013,1179,39153561272.0,277472,262916,14556,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Perdida de ejecutoriedad de asignación de SFV,2010,4,61800000.0,251012,239284,11728,Pendiente,Nacional
+CESAR,20,Bolsa Esfuerzo Territorial,Asignados,2008,58,536110400.0,235743,225421,10322,Ejecutado,Departamental
+CESAR,20,Bolsa Esfuerzo Territorial,Asignados,2004,218,1620201000.0,209909,201484,8425,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignado con aplicación en Vivienda Gratuita,2008,79,1009514978.0,235743,225421,10322,Ejecutado,Nacional
+CESAR,20,Bolsa Esfuerzo Territorial,Restitución SFV por Vencimiento Vigencia,2007,16,143568000.0,228771,219025,9746,Pendiente,Departamental
+CESAR,20,MI CASA YA,Asignados,2021,1115,25191187890.0,395417,370226,25191,Ejecutado,Departamental
+CESAR,20,MI CASA YA,Asignados,2016,260,3210102480.0,310857,292455,18402,Ejecutado,Departamental
+CESAR,20,Bolsa Ordinaria,Renuncias al subsidio,2005,1,8011000.0,215960,207151,8809,No ejecutado,Departamental
+CESAR,20,MI CASA YA,Renuncias al subsidio,2021,7,168625950.0,395417,370226,25191,No ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignados,2005,207,1649044240.0,215960,207151,8809,Ejecutado,Nacional
+CESAR,20,Bolsa Desplazados,Subsidio revocado mediante procedimiento Administrativo Sancionatorio,2010,1,15450000.0,251012,239284,11728,Pendiente,Nacional
+CESAR,20,Bolsa Desplazados,Renuncias al subsidio,2011,6,89713000.0,259275,246707,12568,No ejecutado,Nacional
+CESAR,20,Programa Vivienda Gratuita Fase I,Asignados,2006,1,14907000.0,222187,212942,9245,Ejecutado,Departamental
+CESAR,20,Bolsa Desplazados,Asignados,2021,1,27255780.0,395417,370226,25191,Ejecutado,Nacional
+CESAR,20,Bolsa Concejales,Apto con subsidio vencido,2009,2,21366700.0,243163,232182,10981,Pendiente,Departamental
+CESAR,20,Bolsa Desastres Naturales,Apto con subsidio vencido,2009,1,9107700.0,243163,232182,10981,Pendiente,Departamental
+CESAR,20,Programa Vivienda Gratuita Fase I,Asignados,2007,1,14907000.0,228771,219025,9746,Ejecutado,Departamental
